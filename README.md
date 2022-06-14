@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrincessWinny.
+- 👋 Holla,
 - 👀 I’m interested in Data Science.
 - 🌱 I have a masters degree in Mathematical Sciences
 - 💞️ I’m looking for opportunities that will stear me towards my interest.
